@@ -1,5 +1,15 @@
 # @backstage/create-app
 
+## 0.4.27-next.0
+
+### Patch Changes
+
+- 3983940a21: Optimized the command order in `packages/backend/Dockerfile` as well as added the `--no-install-recommends` to the `apt-get install` and tweaked the installed packages.
+
+  To apply this change to an existing app, update your `packages/backend/Dockerfile` to match the documented `Dockerfile` at https://backstage.io/docs/deployment/docker#host-build.
+
+- 344ea56acc: Bump `commander` to version 9.1.0
+
 ## 0.4.26
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-home
 
+## 0.4.21-next.0
+
+### Patch Changes
+
+- 2b733d9d39: star icons now have the same yellow color as the other star icons when a entity is favourite
+- Updated dependencies
+  - @backstage/plugin-stack-overflow@0.1.1-next.0
+
 ## 0.4.20
 
 ### Patch Changes

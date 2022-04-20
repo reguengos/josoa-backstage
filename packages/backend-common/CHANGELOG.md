@@ -1,5 +1,11 @@
 # @backstage/backend-common
 
+## 0.13.3-next.0
+
+### Patch Changes
+
+- 9ec4e0613e: Update to `jose` 4.6.0
+
 ## 0.13.2
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-api-docs
 
+## 0.8.5-next.0
+
+### Patch Changes
+
+- 09fa05e5d7: Bumped @asyncapi/react-component > openapi-sampler > json-pointer to resolve security vulnerability CVE-2021-23820
+
 ## 0.8.4
 
 ### Patch Changes

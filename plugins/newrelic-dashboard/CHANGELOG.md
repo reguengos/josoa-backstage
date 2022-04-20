@@ -1,5 +1,11 @@
 # @backstage/plugin-newrelic-dashboard
 
+## 0.1.13-next.0
+
+### Patch Changes
+
+- 5fa2fb2553: Add `FetchApi` and related `fetchApiRef` which implement fetch. in order to included the Authorization Token to New Relic Dashboard Plugin, so that frontend can send an authenticated proxy call to backend
+
 ## 0.1.12
 
 ### Patch Changes

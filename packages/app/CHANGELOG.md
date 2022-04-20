@@ -1,5 +1,17 @@
 # example-app
 
+## 0.2.71-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/cli@0.17.1-next.0
+  - @backstage/plugin-home@0.4.21-next.0
+  - @backstage/plugin-api-docs@0.8.5-next.0
+  - @backstage/plugin-newrelic-dashboard@0.1.13-next.0
+  - @backstage/plugin-airbrake@0.3.5-next.0
+  - @backstage/plugin-stack-overflow@0.1.1-next.0
+
 ## 0.2.70
 
 ### Patch Changes

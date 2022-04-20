@@ -1,5 +1,12 @@
 # @backstage/cli
 
+## 0.17.1-next.0
+
+### Patch Changes
+
+- 97cce67ac7: Add instructions to `create-github-app` command.
+- 344ea56acc: Bump `commander` to version 9.1.0
+
 ## 0.17.0
 
 ### Minor Changes
